@@ -1,2 +1,3 @@
 # gitrep-one
-This is my first reposi0otry
+This is my first repository
+Auther_Akhil inmadar
